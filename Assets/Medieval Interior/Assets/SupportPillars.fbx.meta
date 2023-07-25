@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 1cb201ae5dee49c4eadb7d94f4308fb8
+timeCreated: 1515388652
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: SupportPillarArc
+    100002: SupportPillarArcA1
+    100004: //RootNode
+    100006: SupportPillarSideA
+    100008: SupportPillarSideA1
+    100010: SupportPillarSideB
+    100012: SupportPillarSideB1
+    100014: SupportPillarThinA
+    100016: SupportPillarThinA1
+    100018: SupportPillarThinB
+    100020: SupportPillarTopA
+    100022: SupportPillarTopA1
+    100024: SupportPillarTopB
+    400000: SupportPillarArc
+    400002: SupportPillarArcA1
+    400004: //RootNode
+    400006: SupportPillarSideA
+    400008: SupportPillarSideA1
+    400010: SupportPillarSideB
+    400012: SupportPillarSideB1
+    400014: SupportPillarThinA
+    400016: SupportPillarThinA1
+    400018: SupportPillarThinB
+    400020: SupportPillarTopA
+    400022: SupportPillarTopA1
+    400024: SupportPillarTopB
+    2300000: SupportPillarArc
+    2300002: SupportPillarArcA1
+    2300004: SupportPillarSideA
+    2300006: SupportPillarSideA1
+    2300008: SupportPillarSideB
+    2300010: SupportPillarSideB1
+    2300012: SupportPillarThinA
+    2300014: SupportPillarThinA1
+    2300016: SupportPillarThinB
+    2300018: SupportPillarTopA
+    2300020: SupportPillarTopA1
+    2300022: SupportPillarTopB
+    3300000: SupportPillarArc
+    3300002: SupportPillarArcA1
+    3300004: SupportPillarSideA
+    3300006: SupportPillarSideA1
+    3300008: SupportPillarSideB
+    3300010: SupportPillarSideB1
+    3300012: SupportPillarThinA
+    3300014: SupportPillarThinA1
+    3300016: SupportPillarThinB
+    3300018: SupportPillarTopA
+    3300020: SupportPillarTopA1
+    3300022: SupportPillarTopB
+    4300000: SupportPillarThinA
+    4300002: SupportPillarThinB
+    4300004: SupportPillarThinA1
+    4300006: SupportPillarArc
+    4300008: SupportPillarArcA1
+    4300010: SupportPillarTopA
+    4300012: SupportPillarTopB
+    4300014: SupportPillarTopA1
+    4300016: SupportPillarSideB
+    4300018: SupportPillarSideB1
+    4300020: SupportPillarSideA
+    4300022: SupportPillarSideA1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

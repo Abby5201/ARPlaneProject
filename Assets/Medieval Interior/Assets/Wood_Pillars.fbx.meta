@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 80846490aa2e6ea49b6818478056c3b6
+timeCreated: 1515378734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Wood_PillarLargeA
+    100002: Wood_PillarLargeB
+    100004: Wood_PillarMedA
+    100006: Wood_PillarMedB
+    100008: Wood_PillarMedC
+    100010: Wood_PillarMedD
+    100012: Wood_PillarPieceA
+    100014: Wood_PillarPieceB
+    100016: Wood_PillarPieceC
+    100018: Wood_PillarPieceD
+    100020: //RootNode
+    100022: Wood_PillarStraightPieceA
+    100024: Wood_PillarStraightPieceB
+    100026: Wood_PillarStraightPieceC
+    100028: Wood_PillarStraightPieceD
+    400000: Wood_PillarLargeA
+    400002: Wood_PillarLargeB
+    400004: Wood_PillarMedA
+    400006: Wood_PillarMedB
+    400008: Wood_PillarMedC
+    400010: Wood_PillarMedD
+    400012: Wood_PillarPieceA
+    400014: Wood_PillarPieceB
+    400016: Wood_PillarPieceC
+    400018: Wood_PillarPieceD
+    400020: //RootNode
+    400022: Wood_PillarStraightPieceA
+    400024: Wood_PillarStraightPieceB
+    400026: Wood_PillarStraightPieceC
+    400028: Wood_PillarStraightPieceD
+    2300000: Wood_PillarLargeA
+    2300002: Wood_PillarLargeB
+    2300004: Wood_PillarMedA
+    2300006: Wood_PillarMedB
+    2300008: Wood_PillarMedC
+    2300010: Wood_PillarMedD
+    2300012: Wood_PillarPieceA
+    2300014: Wood_PillarPieceB
+    2300016: Wood_PillarPieceC
+    2300018: Wood_PillarPieceD
+    2300020: Wood_PillarStraightPieceA
+    2300022: Wood_PillarStraightPieceB
+    2300024: Wood_PillarStraightPieceC
+    2300026: Wood_PillarStraightPieceD
+    3300000: Wood_PillarLargeA
+    3300002: Wood_PillarLargeB
+    3300004: Wood_PillarMedA
+    3300006: Wood_PillarMedB
+    3300008: Wood_PillarMedC
+    3300010: Wood_PillarMedD
+    3300012: Wood_PillarPieceA
+    3300014: Wood_PillarPieceB
+    3300016: Wood_PillarPieceC
+    3300018: Wood_PillarPieceD
+    3300020: Wood_PillarStraightPieceA
+    3300022: Wood_PillarStraightPieceB
+    3300024: Wood_PillarStraightPieceC
+    3300026: Wood_PillarStraightPieceD
+    4300000: Wood_PillarLargeA
+    4300002: Wood_PillarPieceA
+    4300004: Wood_PillarPieceD
+    4300006: Wood_PillarPieceB
+    4300008: Wood_PillarPieceC
+    4300010: Wood_PillarStraightPieceD
+    4300012: Wood_PillarLargeB
+    4300014: Wood_PillarStraightPieceC
+    4300016: Wood_PillarMedA
+    4300018: Wood_PillarStraightPieceB
+    4300020: Wood_PillarMedB
+    4300022: Wood_PillarStraightPieceA
+    4300024: Wood_PillarMedC
+    4300026: Wood_PillarMedD
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
